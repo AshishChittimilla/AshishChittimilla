@@ -17,7 +17,7 @@
 - 💬 Ask me about C, C++, FreeRTOS, ESP32, BLE, I2C/SPI/UART, or building ML models for constrained devices.
 - 🌱 Currently exploring **ROS2**, **RTOS**, and **TinyML**.
 - ✍️ I write clean, modular, production-ready firmware with a strong emphasis on testing & maintainability.
-- 📫 Reach me at: `ashishchittimilla@gmail.com`
+- 📫 Reach me at: `chittimilla_ashish@hotmail.com`
 
 ---
 
